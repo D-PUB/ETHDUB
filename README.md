@@ -3,10 +3,11 @@ Prototyping in ETH Dublin 2023
 
 1. Connect your Wallet to login (publisher / reader)
 2. Mint your NFT (only Publisher)
-3. Pending - Put the NFT for SALE
-4. Pending - Put the NFT for Lending
-5. Pending - Buy the NFT (reader only)
+3. Put the NFT for SALE
+4. Put the NFT for Lending
+5. Buy the NFT (reader only)
 
+MarketPlace Contract: https://goerli.etherscan.io/address/0x935104a2490e6ff6bc31f479313ba55496082c96#code
 
 Welcome to DPUB a decentralised publishing platform harnessing the technology of blockchain.
 
